@@ -1,8 +1,8 @@
 # Curriculeon Maven Template
-* **Objective** - The purpose of this repository is to create a standard template to clone from when creating new projects.
+* **Objective** - The purpose of this repository is to create a tool which converts from `JSON` output of `app.questgen.ai` to `MarkDown` input of `QuizDownJs`
 
-## How to use
-* To use this project as template, _clone_ the project into you `~/dev` directory.
-* Upon cloning, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
-* Ensure that the `artifactId` of the project is changed from `maven-template-project` to a more appropriate project name.
-* Click view the [`README-Sample.md`](./README-Sample.md) to view _how_ a `README` should be structured for a project.
+## How to build
+* Execute the command below from the root directory of the project to build the application
+  * `./build.sh`
+* Execute the command below from the root directory of the project to run the application
+  * `./run.sh $pathToJson`
