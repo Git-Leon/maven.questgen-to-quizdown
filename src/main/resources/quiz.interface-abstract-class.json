@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "What does implementing an interface mean in Java?",
+      "answer": "A class agrees to follow the rules of that interface",
+      "distractors": [
+        "Inheriting the methods and properties of the base class",
+        "Extending a class from an existing one",
+        "Creating an object-oriented programming language",
+        "A class agrees to follow the rules of that interface"
+      ]
+    },
+    {
+      "question": "What keyword is used to create or extend an interface in Java?",
+      "answer": "Implements",
+      "distractors": [
+        "Implements",
+        "Extends",
+        "Creates",
+        "Instantiate"
+      ]
+    },
+    {
+      "question": "What is the main difference between an abstract class and interfaces?",
+      "answer": "Abstract classes can define constructors and instance variables.",
+      "distractors": [
+        "Interfaces can define constructors and instance variables",
+        "Interfaces are best used to couple a concrete class to a particular constructor",
+        "Abstract classes can define constructors and instance variables.",
+        "Abstract classes cannot define methods"
+      ]
+    },
+    {
+      "question": "How is the keyword \"extends\" used in Java?",
+      "answer": "To extend a concrete class",
+      "distractors": [
+        "To extend a concrete class",
+        "To implement an interface or abstract class",
+        "To extend another interface",
+        "To create an abstract class"
+      ]
+    },
+    {
+      "question": "What is the difference between implements and extends in Java?",
+      "answer": "Implements is used to implement an interface or abstract class, while extends is used to extend a concrete class.",
+      "distractors": [
+        "Implements is used to extend a concrete class, while extends is used to implement an interface or abstract class.",
+        "Extends is used to implement an interface or abstract class, while implements is used to extend a concrete class.",
+        "Extends is used to create concrete subclasses, while implements is used to provide implementations for one or more interfaces.",
+        "Implements is used to implement an interface or abstract class, while extends is used to extend a concrete class."
+      ]
+    }
+  ]
+}
